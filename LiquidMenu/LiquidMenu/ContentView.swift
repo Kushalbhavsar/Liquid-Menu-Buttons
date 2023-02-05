@@ -63,7 +63,7 @@ extension LiquidMenuButtons {
                     }
                 }
             
-            CancelButton().blendMode(.softLight).rotationEffect(Angle(degrees: isCollapsed ? 90 : 0))
+            CancelButton().blendMode(.softLight).rotationEffect(Angle(degrees: isCollapsed ? 90 : 45))
             SettingsButton().offset(offsetOne).blendMode(.softLight).opacity(isCollapsed ? 1 : 0)
             HomeButton().offset(offsetTwo).blendMode(.softLight).opacity(isCollapsed ? 1 : 0)
         }
