@@ -1,2 +1,2 @@
 # Liquid-Menu-Buttons
-Transitioning to a button design with a fluid twist! 💧
+Transitioning button design with a smooth liquid, fluid twist! 💧
